@@ -1,0 +1,34 @@
+Use the SF Animal Rezzer to rez new animals. 
+They will be randomly female or male on rez.
+
+Animals feed from a the various SF Feeder objects. Grass-eating animals use the “SF Grass Feeder” feeder. Dogs use SF Dog Feeder, Pigs use SF Pig Feeder etc.
+
+Every 83 minutes is when animals need to eat, by default the animal eat and drink time is 5000 or  5000/60 = 83 or so
+
+The menu 
+When you select “Stop” from the animal menu, the animal will start wandering randomly up to 5 meters away from the stopping point.
+
+Options click on this button to change settings for your animals.
+
+Short Label = will display to the type of animals ie "Sheep"  or the animals name ie Billy.
+
+Range = how far the animal will wander from its rezz or stop location. 
+
+Help =  will point you to the website help.
+
+Close = closes the menu
+
+Set name = change your animals name 
+
+Walking Off = Turning off roaming
+
+You Get Fertilizer every six days 
+
+After female animals become adult, they can mate. You have to select “Mate” - they won’t mate on their own. 
+
+
+Araminta TwycrossTwitchy is updating this information last update 26-11-2018
+
+Aussie 
+
+
